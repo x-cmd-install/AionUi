@@ -1,0 +1,65 @@
+about:
+  description: Open-source 24/7 Cowork app for OpenClaw, Hermes, Claude Code, Codex, OpenCode and 20+ more CLI Agent | Customize your assistants | Team them up｜Star if you like it!
+  license: Apache-2.0
+  homepage: https://www.aionui.com
+  head: 18022a4
+  archived: false
+  latestVersion: v2.1.61
+  collectedAt: 2026-08-29T07:24:37Z
+timeline:
+  created: 2025-08-07
+  lastCommit: 2026-08-28
+  lastRelease: 2026-08-25
+popularity:
+  star: 32385
+  watcher: 140
+  fork: 3326
+  release: 168
+  contributor: 111
+  pullRequest: 622
+  issue: 1523
+language:
+  TypeScript: 10389932
+  JavaScript: 179798
+  CSS: 148088
+  NSIS: 82969
+  Shell: 56371
+  PowerShell: 56219
+  Just: 16290
+  HTML: 14504
+  Dockerfile: 1322
+  Makefile: 163
+totalLine: 10945656
+recent:
+  last30d:
+    since: 2026-07-30
+    release: 16
+    mergedPR: 150
+    openPR: 62
+    closedIssue: 36
+    openIssue: 105
+    commit: 153
+  last90d:
+    since: 2026-05-31
+    release: 51
+    mergedPR: 451
+    openPR: 111
+    closedIssue: 159
+    openIssue: 212
+    commit: 484
+  last180d:
+    since: 2026-03-02
+    release: 100
+    mergedPR: 1361
+    openPR: 210
+    closedIssue: 578
+    openIssue: 534
+    commit: 2235
+  last360d:
+    since: 2025-09-03
+    release: 100
+    mergedPR: 1862
+    openPR: 210
+    closedIssue: 821
+    openIssue: 651
+    commit: 3551
