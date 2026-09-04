@@ -7,13 +7,13 @@ about:
   head: 9914299
   archived: false
   latestVersion: v2.2.1
-  collectedAt: 2026-09-04T20:03:56Z
+  collectedAt: 2026-09-04T20:38:31Z
 timeline:
   created: 2025-08-07
   lastCommit: 2026-09-02
   lastRelease: 2026-09-01
 popularity:
-  star: 32564
+  star: 32565
   watcher: 145
   fork: 3351
   release: 169
@@ -90,7 +90,7 @@ total:
   commit: 5985
 ---
 path: /home/runner/.x-repo/github.com/iOfficeAI/AionUi
-collectedAt: 2026-09-04T20:04:22Z
+collectedAt: 2026-09-04T20:38:46Z
 loc:
   TypeScript:
     code: 119715
