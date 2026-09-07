@@ -2,21 +2,21 @@ about:
   description: "Open-source 24/7 Cowork app for OpenClaw, Hermes, Claude Code, Codex, OpenCode and 20+ more CLI Agent | Customize your assistants | Team them up｜Star if you like it!"
   license: Apache-2.0
   homepage: https://www.aionui.com
-  head: 66c2e6d
+  head: 6a7fed3
   archived: false
   latestVersion: "v2.2.1"
-  collectedAt: 2026-09-07T06:10:00Z
+  collectedAt: 2026-09-07T18:23:41Z
 timeline:
   created: 2025-08-07
   lastCommit: 2026-09-07
   lastRelease: 2026-09-01
 popularity:
-  star: 32631
+  star: 32652
   watcher: 146
-  fork: 3357
+  fork: 3358
   release: 169
   contributor: 111
-  pullRequest: 2560
+  pullRequest: 2561
   issue: 1540
 language:
   TypeScript: 10422154
@@ -34,61 +34,61 @@ recent:
   last30d:
     since: 2026-08-08
     release: 10
-    mergedPR: 86
-    openPR: 65
+    mergedPR: 87
+    openPR: 64
     closedIssue: 16
     openIssue: 97
-    commit: 67
+    commit: 68
   last60d:
     since: 2026-07-09
     release: 29
-    mergedPR: 252
-    openPR: 96
+    mergedPR: 253
+    openPR: 95
     closedIssue: 91
     openIssue: 163
-    commit: 233
+    commit: 234
   last90d:
     since: 2026-06-09
     release: 45
-    mergedPR: 400
-    openPR: 113
+    mergedPR: 401
+    openPR: 112
     closedIssue: 141
     openIssue: 201
-    commit: 390
+    commit: 391
   last180d:
     since: 2026-03-11
     release: 100
-    mergedPR: 1300
-    openPR: 217
-    closedIssue: 552
-    openIssue: 509
-    commit: 2038
+    mergedPR: 1301
+    openPR: 216
+    closedIssue: 553
+    openIssue: 508
+    commit: 2039
   last360d:
     since: 2025-09-12
     release: 100
-    mergedPR: 1857
-    openPR: 217
-    closedIssue: 813
-    openIssue: 665
-    commit: 3510
+    mergedPR: 1858
+    openPR: 216
+    closedIssue: 814
+    openIssue: 664
+    commit: 3511
   last720d:
     since: 2024-09-17
     release: 100
-    mergedPR: 1923
-    openPR: 217
-    closedIssue: 875
-    openIssue: 665
-    commit: 5986
+    mergedPR: 1924
+    openPR: 216
+    closedIssue: 876
+    openIssue: 664
+    commit: 5987
 total:
   release: 169
-  mergedPR: 1923
-  openPR: 217
-  closedIssue: 875
-  openIssue: 665
-  commit: 5986
+  mergedPR: 1924
+  openPR: 216
+  closedIssue: 876
+  openIssue: 664
+  commit: 5987
 ---
 path: /home/runner/.x-repo/github.com/iOfficeAI/AionUi
-collectedAt: 2026-09-07T06:10:29Z
+collectedAt: 2026-09-07T18:24:14Z
 loc:
   TypeScript:
     code: 119715
@@ -164,7 +164,7 @@ total:
 
 ---
 eget:
-  collectedAt: 2026-09-07T06:10:44+00:00
+  collectedAt: 2026-09-07T18:24:35+00:00
   platform:
     darwin/arm64:
       name:  null
