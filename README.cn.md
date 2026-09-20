@@ -4,7 +4,7 @@
 
 Open-source 24/7 Cowork app for OpenClaw, Hermes, Claude Code, Codex, OpenCode and 20+ more CLI Agent | Customize your assistants | Team them up｜Star if you like it!
 
-![AionUi](https://repo.x-cmd.io/AionUi.svg?lang=zh)
+[![x-cmd/install — AionUi Code Quality Monitoring Repo Card](https://repo.x-cmd.io/AionUi.svg?lang=zh)](https://x-cmd.com/install/AionUi)
 
 ## 安装
 
@@ -37,22 +37,22 @@ x install AionUi
 
 ## 流行度
 
-- **Star**: 32,924 · **Fork**: 3,403 · **开放 issue**: 1,562 · **贡献者**: 111
+- **Star**: 32,966 · **Fork**: 3,411 · **开放 issue**: 1,563 · **贡献者**: 110
 
 ## 累计统计
 
-- **发布数**: 170 · **已合并 PR**: 1925 · **开放 PR**: 230 · **已关闭 issue**: 876 · **开放 issue**: 686 · **提交数**: 5988
+- **发布数**: 170 · **已合并 PR**: 1918 · **开放 PR**: 229 · **已关闭 issue**: 876 · **开放 issue**: 687 · **提交数**: 5988
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 5 | 30 | 39 | 5 | 69 | 30 |
-| last60d | 2026-07-20 | 24 | 210 | 99 | 82 | 168 | 198 |
-| 90d | 2026-06-20 | 39 | 345 | 117 | 115 | 205 | 367 |
-| last180d | 2026-03-22 | 93 | 1195 | 230 | 393 | 489 | 1763 |
-| 360d | 2025-09-23 | 100 | 1847 | 230 | 808 | 686 | 3462 |
-| last720d | 2024-09-28 | 100 | 1925 | 230 | 876 | 686 | 5988 |
+| 30d | 2026-08-21 | 4 | 19 | 38 | 4 | 61 | 30 |
+| last60d | 2026-07-22 | 22 | 185 | 95 | 61 | 160 | 198 |
+| 90d | 2026-06-22 | 39 | 333 | 115 | 113 | 205 | 367 |
+| last180d | 2026-03-24 | 93 | 1163 | 229 | 376 | 483 | 1763 |
+| 360d | 2025-09-25 | 100 | 1836 | 229 | 806 | 687 | 3462 |
+| last720d | 2024-09-30 | 100 | 1918 | 229 | 876 | 687 | 5988 |
 
 ## 改进这些数据
 
@@ -63,4 +63,4 @@ AionUi 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260918.yml` · 2026-09-18T06:31:42Z._
+_数据快照: `data/card/260920.yml` · 2026-09-20T06:33:09Z._
