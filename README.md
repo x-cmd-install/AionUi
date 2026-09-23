@@ -4,7 +4,7 @@
 
 Open-source 24/7 Cowork app for OpenClaw, Hermes, Claude Code, Codex, OpenCode and 20+ more CLI Agent | Customize your assistants | Team them up｜Star if you like it!
 
-[![x-cmd/install — AionUi Code Quality Monitoring Repo Card](https://repo.x-cmd.io/AionUi.svg)](https://x-cmd.com/install/AionUi)
+[![x-cmd/install — AionUi Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/AionUi.svg)](https://x-cmd.com/install/AionUi)
 
 ## Install
 
@@ -37,22 +37,22 @@ Total: **288,007** lines of code across **1998** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 33,030 · **Forks**: 3,425 · **Open issues**: 1,567 · **Contributors**: 110
+- **Stars**: 33,049 · **Forks**: 3,428 · **Open issues**: 1,569 · **Contributors**: 110
 
 ## Totals (cumulative)
 
-- **Releases**: 170 · **Merged PRs**: 1918 · **Open PRs**: 231 · **Closed issues**: 876 · **Open issues**: 691 · **Commits**: 5988
+- **Releases**: 170 · **Merged PRs**: 1918 · **Open PRs**: 231 · **Closed issues**: 876 · **Open issues**: 693 · **Commits**: 5988
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 3 | 15 | 34 | 3 | 58 | 8 |
-| last60d | 2026-07-24 | 21 | 176 | 94 | 54 | 158 | 173 |
-| 90d | 2026-06-24 | 38 | 326 | 115 | 110 | 204 | 324 |
-| last180d | 2026-03-26 | 91 | 1128 | 231 | 353 | 479 | 1570 |
-| 360d | 2025-09-27 | 100 | 1835 | 231 | 805 | 691 | 3418 |
-| last720d | 2024-10-02 | 100 | 1918 | 231 | 876 | 691 | 5988 |
+| 30d | 2026-08-24 | 3 | 11 | 34 | 1 | 53 | 8 |
+| last60d | 2026-07-25 | 20 | 176 | 93 | 52 | 159 | 173 |
+| 90d | 2026-06-25 | 37 | 319 | 114 | 107 | 204 | 324 |
+| last180d | 2026-03-27 | 91 | 1100 | 231 | 334 | 477 | 1570 |
+| 360d | 2025-09-28 | 100 | 1835 | 231 | 805 | 693 | 3418 |
+| last720d | 2024-10-03 | 100 | 1918 | 231 | 876 | 693 | 5988 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for AionUi lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T06:45:41Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T06:46:08Z._
