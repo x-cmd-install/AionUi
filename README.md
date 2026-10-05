@@ -37,7 +37,7 @@ Total: **288,007** lines of code across **1998** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 33,305 · **Forks**: 3,464 · **Open issues**: 1,581 · **Contributors**: 111
+- **Stars**: 33,319 · **Forks**: 3,464 · **Open issues**: 1,581 · **Contributors**: 111
 
 ## Totals (cumulative)
 
@@ -47,12 +47,12 @@ Total: **288,007** lines of code across **1998** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-04 | 1 | 3 | 28 | 2 | 42 | 0 |
-| last60d | 2026-08-05 | 15 | 114 | 86 | 29 | 147 | 77 |
-| 90d | 2026-07-06 | 32 | 264 | 116 | 96 | 202 | 246 |
-| last180d | 2026-04-07 | 85 | 891 | 234 | 262 | 459 | 1070 |
-| 360d | 2025-10-09 | 100 | 1840 | 235 | 807 | 701 | 3375 |
-| last720d | 2024-10-14 | 100 | 1925 | 235 | 880 | 701 | 5988 |
+| 30d | 2026-09-05 | 1 | 3 | 25 | 2 | 41 | 0 |
+| last60d | 2026-08-06 | 14 | 103 | 86 | 22 | 143 | 77 |
+| 90d | 2026-07-07 | 31 | 260 | 116 | 95 | 202 | 246 |
+| last180d | 2026-04-08 | 84 | 855 | 233 | 247 | 453 | 1070 |
+| 360d | 2025-10-10 | 100 | 1840 | 235 | 806 | 701 | 3375 |
+| last720d | 2024-10-15 | 100 | 1925 | 235 | 880 | 701 | 5988 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for AionUi lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261004.yml` · 2026-10-04T07:07:03Z._
+_Snapshot: `data/card/261005.yml` · 2026-10-05T07:05:50Z._
