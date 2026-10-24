@@ -33,26 +33,26 @@ Total: **288,007** lines of code across **1998** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v2.2.2` (2026-09-09)
-- **Last commit**: 2026-10-19
+- **Last commit**: 2026-10-23
 
 ## Popularity
 
-- **Stars**: 33,715 · **Forks**: 3,500 · **Open issues**: 1,605 · **Contributors**: 111
+- **Stars**: 33,741 · **Forks**: 3,500 · **Open issues**: 1,606 · **Contributors**: 111
 
 ## Totals (cumulative)
 
-- **Releases**: 170 · **Merged PRs**: 1927 · **Open PRs**: 161 · **Closed issues**: 884 · **Open issues**: 721 · **Commits**: 5990
+- **Releases**: 170 · **Merged PRs**: 1928 · **Open PRs**: 161 · **Closed issues**: 885 · **Open issues**: 721 · **Commits**: 5991
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-23 | 0 | 2 | 12 | 3 | 35 | 2 |
-| last60d | 2026-08-24 | 3 | 13 | 45 | 5 | 87 | 11 |
-| 90d | 2026-07-25 | 20 | 178 | 102 | 58 | 191 | 184 |
-| last180d | 2026-04-26 | 71 | 648 | 161 | 212 | 417 | 821 |
-| 360d | 2025-10-28 | 100 | 1790 | 161 | 798 | 720 | 3239 |
-| last720d | 2024-11-02 | 100 | 1927 | 161 | 884 | 721 | 5990 |
+| 30d | 2026-09-24 | 0 | 3 | 12 | 3 | 34 | 3 |
+| last60d | 2026-08-25 | 3 | 12 | 43 | 4 | 87 | 12 |
+| 90d | 2026-07-26 | 20 | 179 | 101 | 58 | 191 | 185 |
+| last180d | 2026-04-27 | 71 | 639 | 161 | 212 | 417 | 822 |
+| 360d | 2025-10-29 | 100 | 1786 | 161 | 798 | 720 | 3240 |
+| last720d | 2024-11-03 | 100 | 1928 | 161 | 885 | 721 | 5991 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for AionUi lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261023.yml` · 2026-10-23T06:05:04Z._
+_Snapshot: `data/card/261024.yml` · 2026-10-24T05:51:24Z._
