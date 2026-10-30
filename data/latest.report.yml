@@ -7,7 +7,7 @@ about:
   latestVersion: "v2.2.2"
   latestRelease: "v2.2.2"
   latestPrerelease: "v2.1.3"
-  collectedAt: 2026-10-29T07:19:12Z
+  collectedAt: 2026-10-30T07:09:01Z
 timeline:
   created: 2025-08-07
   lastCommit: 2026-10-23
@@ -15,13 +15,13 @@ timeline:
   lastRelease: 2026-09-09
   lastPrerelease: 2026-05-26
 popularity:
-  star: 33871
-  watcher: 145
-  fork: 3522
+  star: 33909
+  watcher: 144
+  fork: 3529
   release: 170
   contributor: 111
   pullRequest: 2605
-  issue: 1610
+  issue: 1613
 language:
   TypeScript: 10422154
   JavaScript: 179798
@@ -36,63 +36,63 @@ language:
 totalBytes: 10977878
 recent:
   last30d:
-    since: 2026-09-29
+    since: 2026-09-30
     release: 0
     mergedPR: 3
-    openPR: 15
+    openPR: 14
     closedIssue: 3
-    openIssue: 31
+    openIssue: 33
     commit: 3
   last60d:
-    since: 2026-08-30
+    since: 2026-08-31
     release: 2
-    mergedPR: 10
+    mergedPR: 9
     openPR: 44
     closedIssue: 4
-    openIssue: 82
+    openIssue: 85
     commit: 7
   last90d:
-    since: 2026-07-31
-    release: 17
-    mergedPR: 158
-    openPR: 102
+    since: 2026-08-01
+    release: 16
+    mergedPR: 156
+    openPR: 100
     closedIssue: 41
     openIssue: 183
     commit: 160
   last180d:
-    since: 2026-05-02
+    since: 2026-05-03
     release: 68
     mergedPR: 615
     openPR: 166
-    closedIssue: 208
-    openIssue: 406
+    closedIssue: 207
+    openIssue: 405
     commit: 775
   last360d:
-    since: 2025-11-03
+    since: 2025-11-04
     release: 100
-    mergedPR: 1781
+    mergedPR: 1778
     openPR: 166
-    closedIssue: 797
-    openIssue: 724
+    closedIssue: 796
+    openIssue: 727
     commit: 3175
   last720d:
-    since: 2024-11-08
+    since: 2024-11-09
     release: 100
     mergedPR: 1928
     openPR: 166
     closedIssue: 885
-    openIssue: 725
+    openIssue: 728
     commit: 5991
 total:
   release: 170
   mergedPR: 1928
   openPR: 166
   closedIssue: 885
-  openIssue: 725
+  openIssue: 728
   commit: 5991
 ---
 path: /home/runner/.x-repo/github.com/iOfficeAI/AionUi
-collectedAt: 2026-10-29T07:20:13Z
+collectedAt: 2026-10-30T07:09:22Z
 loc:
   TypeScript:
     code: 119715
