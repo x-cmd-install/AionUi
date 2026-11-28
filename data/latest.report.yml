@@ -7,7 +7,7 @@ about:
   latestVersion: "v2.2.2"
   latestRelease: "v2.2.2"
   latestPrerelease: "v2.1.3"
-  collectedAt: 2026-11-27T09:41:26Z
+  collectedAt: 2026-11-28T09:13:05Z
 timeline:
   created: 2025-08-07
   lastCommit: 2026-11-05
@@ -15,13 +15,13 @@ timeline:
   lastRelease: 2026-09-09
   lastPrerelease: 2026-05-26
 popularity:
-  star: 34535
+  star: 34560
   watcher: 145
-  fork: 3617
+  fork: 3618
   release: 170
   contributor: 117
   pullRequest: 2620
-  issue: 1632
+  issue: 1633
 language:
   TypeScript: 10440760
   JavaScript: 179798
@@ -36,63 +36,63 @@ language:
 totalBytes: 10996972
 recent:
   last30d:
-    since: 2026-10-28
+    since: 2026-10-29
     release: 0
     mergedPR: 5
     openPR: 8
-    closedIssue: 1
-    openIssue: 23
+    closedIssue: 0
+    openIssue: 21
     commit: 11
   last60d:
-    since: 2026-09-28
+    since: 2026-09-29
     release: 0
     mergedPR: 9
     openPR: 21
     closedIssue: 6
-    openIssue: 51
+    openIssue: 52
     commit: 14
   last90d:
-    since: 2026-08-29
+    since: 2026-08-30
     release: 2
     mergedPR: 20
-    openPR: 48
+    openPR: 46
     closedIssue: 7
-    openIssue: 103
+    openIssue: 102
     commit: 21
   last180d:
-    since: 2026-05-31
-    release: 53
-    mergedPR: 472
-    openPR: 147
+    since: 2026-06-01
+    release: 52
+    mergedPR: 465
+    openPR: 146
     closedIssue: 173
-    openIssue: 309
+    openIssue: 306
     commit: 499
   last360d:
-    since: 2025-12-02
+    since: 2025-12-03
     release: 100
-    mergedPR: 1731
+    mergedPR: 1727
     openPR: 167
     closedIssue: 788
-    openIssue: 735
+    openIssue: 736
     commit: 3028
   last720d:
-    since: 2024-12-07
+    since: 2024-12-08
     release: 100
     mergedPR: 1939
     openPR: 167
     closedIssue: 893
-    openIssue: 739
+    openIssue: 740
     commit: 6002
 total:
   release: 170
   mergedPR: 1939
   openPR: 167
   closedIssue: 893
-  openIssue: 739
+  openIssue: 740
   commit: 6002
 ---
 path: /home/runner/.x-repo/github.com/iOfficeAI/AionUi
-collectedAt: 2026-11-27T09:41:50Z
+collectedAt: 2026-11-28T09:13:25Z
 loc:
   TypeScript:
     code: 120026
